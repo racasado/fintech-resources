@@ -10,4 +10,4 @@
 - PWA
   - [Introduction to Service Worker](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker)
   - [Introduction to Push Notifications](https://developers.google.com/web/ilt/pwa/introduction-to-push-notifications)
-- [Alexander Pope: ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js](https://www.youtube.com/watch?v=CPP9ew4Co0M)
+- :tv: [Alexander Pope: ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js](https://www.youtube.com/watch?v=CPP9ew4Co0M)
