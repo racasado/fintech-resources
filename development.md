@@ -12,4 +12,4 @@
   - [Introduction to Push Notifications](https://developers.google.com/web/ilt/pwa/introduction-to-push-notifications)
 - :tv: [Alexander Pope: ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js](https://www.youtube.com/watch?v=CPP9ew4Co0M)
 - :tv: [The Service Worker Lifecycle](https://www.youtube.com/watch?v=TF4AB75PyIc)
--:tv: [Web Push Notifications in Xampp with PHP](https://www.youtube.com/watch?v=vi9d6MjiBGQ)
+- :tv: [Web Push Notifications in Xampp with PHP](https://www.youtube.com/watch?v=vi9d6MjiBGQ)
