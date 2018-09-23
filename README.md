@@ -1,8 +1,8 @@
 # fintech-resources
 
-media
-regulation
-development
-companies
-research
-books
+## media
+## regulation
+## development
+## companies
+## research
+## books
