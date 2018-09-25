@@ -16,3 +16,4 @@
 - [Web Push Notifications: Timely, Relevant, and Precise](https://developers.google.com/web/fundamentals/push-notifications/)
 - :tv: [Push Notifications Using Node.js & Service Worker](https://www.youtube.com/watch?v=HlYFW2zaYQM)
 - :tv: [Web Push Notifications in Xampp with PHP](https://www.youtube.com/watch?v=vi9d6MjiBGQ)
+- [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)
