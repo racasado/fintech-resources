@@ -11,6 +11,7 @@
 - :tv: [Alexander Pope: ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js](https://www.youtube.com/watch?v=CPP9ew4Co0M)
 - :tv: [The Service Worker Lifecycle](https://www.youtube.com/watch?v=TF4AB75PyIc)
 - [Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers/?hl=en)
+- [Cookbook](https://serviceworke.rs/api-analytics_service-worker_doc.html)
 
 ## Push Notifications
 - [Web Push Notifications: Timely, Relevant, and Precise](https://developers.google.com/web/fundamentals/push-notifications/)
