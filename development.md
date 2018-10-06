@@ -23,3 +23,7 @@
 - https://www.simoahava.com/analytics/measure-serp-bounce-time-with-gtm/
 - https://github.com/Countly/countly-sdk-web
 - https://www.analyticsmania.com/post/custom-javascripts-for-google-tag-manager/
+- https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview
+
+https://fanout.io/
+https://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed
