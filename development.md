@@ -25,8 +25,25 @@
 - https://github.com/Countly/countly-sdk-web
 - https://www.analyticsmania.com/post/custom-javascripts-for-google-tag-manager/
 - https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview
+- [Sending Data to Server on Page Unload](http://qnimate.com/sending-data-to-server-on-page-unload/) o http://usefulangle.com/post/62/javascript-send-data-to-server-on-page-exit-reload-redirect
+- https://github.com/twail-net/visibilityjs
 
+```
+window.addEventListener('unload', logData, false);
 
+function logData() {
+    if("sendBeacon" in navigator)
+    {
+        navigator.sendBeacon("/log", analyticsData);
+    }
+    else
+    {
+        var client = new XMLHttpRequest();
+        client.open("POST", "/log", false);
+        client.send(analyticsData);
+    }
+}
+```
 
 ## fanout
 - https://getstream.io/
