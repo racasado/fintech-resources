@@ -22,3 +22,4 @@
 ## tracking and analytics
 - https://www.simoahava.com/analytics/measure-serp-bounce-time-with-gtm/
 - https://github.com/Countly/countly-sdk-web
+- https://www.analyticsmania.com/post/custom-javascripts-for-google-tag-manager/
