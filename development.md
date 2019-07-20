@@ -19,6 +19,7 @@
 - :tv: [Push Notifications Using Node.js & Service Worker](https://www.youtube.com/watch?v=HlYFW2zaYQM)
 - :tv: [Web Push Notifications in Xampp with PHP](https://www.youtube.com/watch?v=vi9d6MjiBGQ)
 - [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)
+- https://www.simicart.com/blog/pwa-ios-13-beta/
 
 ## tracking and analytics
 - https://www.simoahava.com/analytics/measure-serp-bounce-time-with-gtm/
@@ -44,6 +45,11 @@ function logData() {
     }
 }
 ```
+
+- Alternativas a Google Analytics
+  - Matomo, antes piwik (https://matomo.org/)
+  - http://www.openwebanalytics.com/
+  - https://count.ly/web-analytics
 
 ## fanout
 - https://getstream.io/
