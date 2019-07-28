@@ -13,6 +13,7 @@
 - [Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers/?hl=en)
 - [Cookbook](https://serviceworke.rs/api-analytics_service-worker_doc.html)
 - https://developers.google.com/web/tools/workbox/guides/get-started
+- https://www.simicart.com/blog/pwa-ios-13-beta/
 
 ## Push Notifications
 - [Web Push Notifications: Timely, Relevant, and Precise](https://developers.google.com/web/fundamentals/push-notifications/)
