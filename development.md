@@ -51,6 +51,9 @@ function logData() {
   - Matomo, antes piwik (https://matomo.org/)
   - http://www.openwebanalytics.com/
   - https://count.ly/web-analytics
+  - https://keen.io/ (https://github.com/keen/keen-tracking.js/)
+  - http://www.eventanalytics.org/
+  - https://github.com/snowplow/snowplow-javascript-tracker
 
 ## fanout
 - https://getstream.io/
