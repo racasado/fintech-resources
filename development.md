@@ -57,6 +57,12 @@ function logData() {
 
 - Parametros que envía Google analytics
 
+Google envía hace una para enviar los datos recurrentemente...
+
+```
+https://www.google-analytics.com/collect?v=1&_v=j68&a=753537405&t=pageview&_s=1&dl=https%3A%2F%2Fwww.analyticsmarket.com%2F&ul=en-us&de=UTF-8&dt=Resources%20for%20Google%20Analytics&sd=24-bit&sr=1600x900&vp=1583x418&je=0&_u=AACAAEAB~&jid=1528408694&gjid=192180985&cid=1602946763.1549335544&tid=UA-23423231144-1&_gid=1845815927.1549335544&_r=1&z=549945300
+```
+
 Name|Description|Example Value
 |---|---|---|
 v|Protocol version|v=1
