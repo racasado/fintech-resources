@@ -55,6 +55,34 @@ function logData() {
   - http://www.eventanalytics.org/
   - https://github.com/snowplow/snowplow-javascript-tracker
 
+- Parametros que envía Google analytics
+
+Name|Description|Example Value
+|---|---|---|
+v|Protocol version|v=1
+_v|SDK Version number|_v=j68
+a|AdSense linking number|a=753537405
+t|Hit Type.  e.g. pageview, event, item, timing, etc.|t=pageview
+_s|Hit sequence number? (unsure)|_s=1
+dl|Document Location (full URL)|dl=https%3A%2F%2Fwww.analyticsmarket.com%2F
+ul|User Language|ul=en-us
+de|Document Encoding|de=UTF-8
+dt|Document Title (Page Title)|dt=Resources%20for%20Google%20Analytics
+sd|Screen Depth (color)|sd=24-bit
+sr|Screen Resolution|sr=1600×900
+vp|View Port|vp=1583×418
+je|Java Enabled (0 = no, 1 = yes)|je=0
+_u|Usage info: tells Google which features are used|_u=AACAAEAB~
+jid|Join ID for DoubleClick beacon|jid=1528408694
+gjid|Tracking code version|gjid=192180985
+cid|Client ID: random-number.timestamp|cid=1602946763.1549335544
+tid|Tracking ID / Web Property ID|tid=UA-23423231144-1
+_gid|User ID, used to distinguish users|_gid=1845815927.1549335544
+z|Random Number Cache Buster|z=549945300
+
+
+
+
 ## fanout
 - https://getstream.io/
 - https://fanout.io/
